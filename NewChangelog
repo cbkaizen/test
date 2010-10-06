@@ -1,0 +1,35 @@
+commit ae75202fe4b48d08ff45751dae57f17790b40dad
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 21:54:01 2010 -0500
+
+    removed Changelog not from git
+
+commit 12ae40d50d6bcb7a2a747d7dd18181c5b1f6a8a0
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 21:52:05 2010 -0500
+
+    changed after Changelog added
+
+commit b6274928493a93ff28efdbd7fec20c04614256c9
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 21:47:07 2010 -0500
+
+    added Changelog file
+
+commit cf3dfaaaedd56605b212652baa546d1eb060122f
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 21:22:14 2010 -0500
+
+    added 2nd commit message
+
+commit afff59d18fa5874ad2198c3aee9afb2308e2de0e
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 21:05:43 2010 -0500
+
+    second commit
+
+commit 1d3a2915c3f3ebbc9881ac38019f6cfd67a6dffc
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 21:03:01 2010 -0500
+
+    initial commit

@@ -3,5 +3,3 @@ Original text.
 First change.  -> Was second commit
 
 change after Changelog added
-
-added NewChangelog

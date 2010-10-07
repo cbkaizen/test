@@ -3,3 +3,5 @@ Original text.
 First change.  -> Was second commit
 
 change after Changelog added
+
+after revert; revert basically removes/undo the particular commit - in this case the text for NewChangelog was removed but the NewChangelog file (which was committed afterward) stay

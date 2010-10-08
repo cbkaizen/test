@@ -5,3 +5,7 @@ First change.  -> Was second commit
 change after Changelog added
 
 after revert; revert basically removes/undo the particular commit - in this case the text for NewChangelog was removed but the NewChangelog file (which was committed afterward) stay
+
+added note for log2 addition
+
+commit --amend after adding text includes it to the commit but git status still shows as modified text

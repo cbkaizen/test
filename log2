@@ -1,0 +1,61 @@
+commit 95c94bd10ad93b316a8d39c58d432ca013ad79d3
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Wed Oct 6 21:05:43 2010 -0500
+
+    explanation for revert added
+
+commit 317e1ed4b2cb10f491f4d23b317a88892adff9bc
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 22:08:25 2010 -0500
+
+    Revert "NewChangelog noted in temp.txt, file not added yet"
+    
+    This reverts commit 8a27381fcca99c320af3503b50058c4c50ad3d92.
+
+commit 0f699b3a21812b365adb5697325892bd2cfc4447
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 22:06:57 2010 -0500
+
+    NewChangelog file is now added
+
+commit 8a27381fcca99c320af3503b50058c4c50ad3d92
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 22:05:28 2010 -0500
+
+    NewChangelog noted in temp.txt, file not added yet
+
+commit ae75202fe4b48d08ff45751dae57f17790b40dad
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 21:54:01 2010 -0500
+
+    removed Changelog not from git
+
+commit 12ae40d50d6bcb7a2a747d7dd18181c5b1f6a8a0
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 21:52:05 2010 -0500
+
+    changed after Changelog added
+
+commit b6274928493a93ff28efdbd7fec20c04614256c9
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 21:47:07 2010 -0500
+
+    added Changelog file
+
+commit cf3dfaaaedd56605b212652baa546d1eb060122f
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 21:22:14 2010 -0500
+
+    added 2nd commit message
+
+commit afff59d18fa5874ad2198c3aee9afb2308e2de0e
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 21:05:43 2010 -0500
+
+    second commit
+
+commit 1d3a2915c3f3ebbc9881ac38019f6cfd67a6dffc
+Author: Chris B <chriskaizen@gmail.com>
+Date:   Tue Oct 5 21:03:01 2010 -0500
+
+    initial commit

@@ -10,4 +10,9 @@ added note for log2 addition
 
 commit --amend after adding text includes it to the commit but git status still shows as modified text
 
+--merging manually - this is from gitmagic_dev2--
 new pull /gitmagic_dev2 - before made changes in test.txt"
+
+-- this is from last push before merging
+commit after experimental branch created, branch1.txt added and log 2 overwritten there
+

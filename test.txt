@@ -9,3 +9,5 @@ after revert; revert basically removes/undo the particular commit - in this case
 added note for log2 addition
 
 commit --amend after adding text includes it to the commit but git status still shows as modified text
+
+commit after experimental branch created, branch1.txt added and log 2 overwritten there
